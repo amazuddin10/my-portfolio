@@ -1,0 +1,43 @@
+Body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+.beautiful{
+    color: darkmagenta;
+}
+.half-width img{
+    width:60px;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.about-us{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,pink,orange);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.hello{
+    display: flex;
+    justify-content: center;
+    margin: left;
+  }
+  
+  
+  .half-width{
+    width: 33%;
+    float: left;
+    
+  }
+  .blog img {
+      width: 60px;
+  }
+  footer p{
+      text-align:center;
+      color: rgb(212, 126, 212);
+  }
+  
+  
